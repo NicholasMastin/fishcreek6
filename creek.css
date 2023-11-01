@@ -1,0 +1,57 @@
+
+* {box-sizing: border-box;}
+
+body { background-color: #5280c5;
+	   color: #003366;
+	   font-family: Verdana, Arial, sans-serif;
+	   background-image: url(gradientblue.jpg); }
+
+header { background-color: #000066;
+		 color: #F0F0F0;
+		 background-image: url(bigfish.gif);
+		 background-repeat: no-repeat;
+		 background-position: center;
+		 text-align: center;}
+
+footer { font-size: .70em;
+		 font-style: italic;
+		 text-align: center;
+		 background-color:#AEC3E3; }
+
+footer nav { background-color: #F0F0F0; }
+
+img {border: no;}
+
+main {padding-left: 10px;
+	  padding-right: 10px; }
+
+h1 { line-height: 200%; 
+	 text-indent: 1em; 
+	 line-height:250%;
+	 margin-bottom: 0;
+	 font-size: 3em;
+	 padding: 0.2em;
+	 text-shadow: #cccccc;}
+
+nav { font-weight: bold;
+	  float: left ;
+	  padding:5px;
+	  width: 180px;}
+
+nav ul { text-decoration: none;}
+
+dt { color:#5280C5;
+	 font-weight: bold;
+	 font-family: georgia, "times New Roman", serif}
+
+.category { font-weight: bold;
+			min-width: 700px;
+			color: #5280C5;
+			font-family: georgia, "times new roman", serif;
+			text-shadow:1px 1px 1px #667;}
+
+.wrapper {width: 80%;
+		 margin-right:auto;
+		 margin-left:auto;
+		 background-color:#f0f0f0;}
+
